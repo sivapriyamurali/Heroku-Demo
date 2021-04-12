@@ -1,13 +1,13 @@
-package com.example.herokudemo;
+package com.example.govinda;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HerokudemoApplication {
+public class GovindaApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(HerokudemoApplication.class, args);
+        SpringApplication.run(GovindaApplication.class, args);
     }
 
 }

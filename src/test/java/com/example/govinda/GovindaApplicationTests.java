@@ -1,10 +1,10 @@
-package com.example.herokudemo;
+package com.example.govinda;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HerokudemoApplicationTests {
+class GovindaApplicationTests {
 
     @Test
     void contextLoads() {
